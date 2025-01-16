@@ -1,4 +1,4 @@
-## Hi there, I'm [Shreya] 👋
+## Hi there, I'm Shreya 👋
 
 Welcome to my Github Profile! I am a CS major living in Canada and I'm passionate about technology and always eagar to learn new things!
 
