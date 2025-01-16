@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - **Password Validator**: Created a password validator program that checks if the password inputted satifies certain conditions (conditions are mentioned in code doc in comments)
   - [GitHub Repo](https://github.com/Shre0627/Python-Projects.git)
 - **Sorting Algorithms**: Implemented Bubble Sort and Selection Sort from scratch allowing users to input a list of numbers to be sorted efficiently within seconds.
-  - https://github.com/Shre0627/Python-Projects.git
+  - [GitHub Repo](https://github.com/Shre0627/Python-Projects.git)
 - **Recipe Website**: Created a website that has recipes for different meals on the day (breakfast, lunch, and dinner) where users can look through the recipes and upload their own recipes after creating an account in the site
   - [GitHub Repo](https://github.com/SB2224/CookingMamasWebsite.git)
 
