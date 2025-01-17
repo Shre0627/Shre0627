@@ -26,15 +26,17 @@ Here are some ideas to get you started:
 ## 👩🏽‍💻 My Skills
 
 ### 💻 Languages and Source Control
-- Programming Languages - `Python`, `Java`, `C/C++`
-- Web Development - `HTML`, `CSS`, `JavaScript`, `JSON`, `MySQL`
-- Machine Learning - `Assembly`, `Verilog`
+- Programming Languages - `Python`, `Java`, `C/C++`, `Assembly`
+- Web Development - `HTML`, `CSS`, `JavaScript`, `JSON`
+- Databases: `MySQL`
+- Tools and Frameworks - `VS Code`, `Eclipse`, `Verilog`
 - Version Control - `Git`
+- Other Skills - `Rest APIs`, `Unit Testing (JUnit)`
 
 ## 📝 Projects
 - **Basic Calculator**: Created a simple text-base calculator for a single operation that performs basic arthemtic operations. 
   - [GitHub Repo](https://github.com/Shre0627/Python-Projects.git)
-- **Password Validator**: Created a password validator program that checks if the password inputted satifies certain conditions (conditions are mentioned in code doc in comments)
+- **Password Validator**: Created a password validator program that checks if the password inputted satifies certain conditions (conditions are mentioned in code doc in comments).
   - [GitHub Repo](https://github.com/Shre0627/Python-Projects.git)
 - **Sorting Algorithms**: Implemented Bubble Sort and Selection Sort from scratch allowing users to input a list of numbers to be sorted efficiently within seconds.
   - [GitHub Repo](https://github.com/Shre0627/Python-Projects.git)
